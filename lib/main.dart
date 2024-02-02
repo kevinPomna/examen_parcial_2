@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart'; // Agregar la importación de intl
+import 'package:intl/intl.dart'; 
 import 'package:provider/provider.dart';
 
 void main() {
